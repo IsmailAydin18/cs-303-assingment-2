@@ -8,3 +8,4 @@
 7. 3 will add a new number to end of the array
 8. 4 will delete a number from the array according to the index provided
 9. 5 will break the code and end the program.
+10. Do the same thing for second part of the assginment. (classes part)
